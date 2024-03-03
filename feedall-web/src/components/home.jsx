@@ -1,5 +1,5 @@
 // import React from "react";
-import asideImage from "/feedallImg.jpg";
+import asideImage from "/src/feedallImg.jpg";
 import "./homePage.scss";
 import { Link } from "react-router-dom";
 import NavBar from "./nav";
